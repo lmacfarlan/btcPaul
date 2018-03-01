@@ -1,0 +1,8 @@
+project_token: 2cdfcbaa02ed6b33da0c7454
+name: btcPaul
+language: python
+entrypoint: main.py
+resources:
+  limits:
+    cpu: 6
+    memory: 2Gi
